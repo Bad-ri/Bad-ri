@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badri</h1>
 <h3 align="center">Planning to work as a software tester.</h3>
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74131474/214812829-958990fd-145e-4711-a356-b85fd6e76431.png"/>
 
 - 🔭 I’m currently working on my [Graduation project](https://github.com/LUDOOS/Ludos.git)
 
