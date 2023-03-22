@@ -6,9 +6,6 @@
 
 - 🌱 I’m currently learning **ISTQB|CTFL & Web-Automation**
 
-- 😍 XXXTentacion, Juice WRLD and Marwan Pablo
-
-- ⚡ Fun fact: Coffee addict
 
 <h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h3> 
 <p align="left">
